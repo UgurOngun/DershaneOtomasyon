@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MainIslemler\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainIslemler\OgrenciGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\Harc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\Odev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\OgrenciKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainIslemler\Personel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainIslemler\PersonelGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainIslemler\Öğrenci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\OgretmenNot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\PersonelKayıt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\Takvim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PersonelIslemler\VeliBilgi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
